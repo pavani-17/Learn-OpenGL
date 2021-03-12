@@ -1,2 +1,2 @@
-# Hello-World
-Repository with code for students to test their OpenGL installation. 
+# Learn OpenGL
+Code for dodecahedrons using Open Gl.
